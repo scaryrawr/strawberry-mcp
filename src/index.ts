@@ -12,6 +12,7 @@ const server = new McpServer({
 // Add a tool to count letter occurrences in a word
 server.tool(
   "count-letters",
+  "Count the occurrences of a letter in a word",
   { word: z.string(), letter: z.string().length(1) },
   async ({ word, letter }) => {
     const count = countLetterOccurrences(word, letter);

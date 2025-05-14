@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/scaryrawr-strawberry-mcp-badge.png)](https://mseep.ai/app/scaryrawr-strawberry-mcp)
+
 # Letter Counter MCP Server (strawberry-mcp)
 
 This is an LLM generated mcp server using the instructions from [Building MCP with LLMs](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms).
